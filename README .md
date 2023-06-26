@@ -53,7 +53,8 @@ This repository contains the code and documentation for a DIY Car project that i
   ![CAR](https://github.com/Saurabhh-37/ESP-Car-with-Ultrasonic-Sensors-and-IoT-Integration/blob/main/Images/DIY%20Car.jpg)
 
 - BlynkIOT Interface
-  ![BlynkIOT Interface](https://github.com/Saurabhh-37/ESP-Car-with-Ultrasonic-Sensors-and-IoT-Integration/blob/main/Images/DIY%20Car.jpg)
+
+  ![BlynkIOT Interface](https://github.com/Saurabhh-37/ESP-Car-with-Ultrasonic-Sensors-and-IoT-Integration/blob/main/Images/blynkiotinterface.png)
 
 
 ## Acknowledgements

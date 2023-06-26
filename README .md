@@ -47,6 +47,9 @@ This repository contains the code and documentation for a DIY Car project that i
 - Gradually move objects closer to the sensors and observe if the warnings and vehicle stop functionality work as intended.
 - Test the real-time motion control of the car using the Blynk application and ensure the vehicle responds correctly to commands.
 
+## Video
+ [Video](https://youtu.be/HwUxlMKwECM)
+
 ## Screenshots
 
 - DIY Car
